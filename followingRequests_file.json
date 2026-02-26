@@ -1,0 +1,59 @@
+{
+  "relationships_permanent_follow_requests": [
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/example_user1",
+          "value": "example_user1",
+          "timestamp": 1700000001
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/example_user2",
+          "value": "example_user2",
+          "timestamp": 1700000002
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/example_user3",
+          "value": "example_user3",
+          "timestamp": 1700000003
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/example_user4",
+          "value": "example_user4",
+          "timestamp": 1700000004
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sample_pending_account",
+          "value": "sample_pending_account",
+          "timestamp": 1700001234
+        }
+      ]
+    }
+  ]
+}
