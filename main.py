@@ -26,6 +26,7 @@ followRequests = set ()
 with open(followingRequestsFile, 'r') as File:
     followingRequestsFile = json.load(File)
 
+print("Accounts that aren't following back:")
 for i in followingRequestsFile["relationships_permanent_follow_requests"]:
     followRequests.add(i["string_list_data"][0]["value"])
 
