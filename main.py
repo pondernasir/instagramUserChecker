@@ -6,7 +6,7 @@ People who follow you.
 followings:
 People you currently follow.
 followRequests:
-People you requested but they haven’t accepted yet.
+People you requested but they haven’t accepted yet...
 """
 
 
